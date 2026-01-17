@@ -14,7 +14,7 @@ This project implements a comprehensive customer churn prediction system that an
 
 ## 🚀 Live Demo
 
-[View Live Application](#) *(Add your Streamlit Cloud URL here)*
+[View Live Application](#) :-(https://divyanshyadav6661-customer-churn-prediction.streamlit.app/)
 
 ## 📸 Application Screenshots
 
