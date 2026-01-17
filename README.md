@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
+**Divyansh Yadav**
 - GitHub: (https://github.com/Divyansh6661)
 - LinkedIn:(www.linkedin.com/in/divyansh-yadav-6661ai)
 - Email: divyanshyadav6661@gmail.com
@@ -255,7 +255,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tools: Python ecosystem, Streamlit, scikit-learn
 
 ---
+📫 **Questions or suggestions?** Feel free to open an issue or reach out!
 
 ⭐ **If you find this project useful, please consider giving it a star!**
 
-📫 **Questions or suggestions?** Feel free to open an issue or reach out!
+Looking for the companion project? Check out my  [retail-sales-analytics](https://github.com/Divyansh6661/retail-sales-analytics) showcasing sales forecasting and analytics platform with ML
