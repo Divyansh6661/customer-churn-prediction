@@ -244,8 +244,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Divyansh6661)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/divyansh-yadav-6661ai)
+- GitHub: (https://github.com/Divyansh6661)
+- LinkedIn:(www.linkedin.com/in/divyansh-yadav-6661ai)
 - Email: divyanshyadav6661@gmail.com
 
 ## 🙏 Acknowledgments
